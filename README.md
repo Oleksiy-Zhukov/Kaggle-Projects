@@ -6,7 +6,7 @@ This repository contains a collection of some of my first projects Data Science 
 #### [Digit Recognition](https://github.com/Oleksiy-Zhukov/Kaggle-Projects/tree/main/Digit-Recognition) (March 2023): 
 - This project focuses on building a machine learning model to recognize handwritten digits. It involves exploring the famous MNIST dataset and training various classification algorithms.
 - The trained model achieved an accuracy of 99.52% on the testing set, which is a state-of-the-art performance on the MNIST dataset.
-<img src="https://github.com/Oleksiy-Zhukov/Kaggle-Projects/assets/75014961/6509cf5a-1d4a-46ff-82b9-6c3a971db51d">
+<img src="https://github.com/Oleksiy-Zhukov/Kaggle-Projects/assets/75014961/858d1d55-39db-4541-831b-e4fe952c932f">
 
 #### [House Prices](https://github.com/Oleksiy-Zhukov/Kaggle-Projects/tree/main/House-Prices) (March 2023):
 - In this project, I analyze a dataset of housing prices and develop a regression model to predict the prices of new houses based on their features. I explore various data preprocessing techniques, feature engineering, and model selection.
