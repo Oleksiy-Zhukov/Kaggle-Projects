@@ -14,7 +14,9 @@ This repository contains a collection of some of my first projects Data Science 
 <img src="https://github.com/Oleksiy-Zhukov/Kaggle-Projects/assets/75014961/4e9783cb-91f1-45c8-add9-86dc322b9197">
 
 #### [Superstore Analysis]() (February 2023):
-- Here, I analyze a fictional superstore dataset to gain insights into its sales, customers, and products. The project involves data cleaning, exploratory data analysis, and visualization to identify patterns and trends.
+- In this project, I analyze a fictional superstore dataset to gain insights into its sales, customers, and products. The project involves data cleaning, exploratory data analysis, visualization, and also includes geoanalysis to examine spatial patterns and relationships within the data. The analysis provides valuable insights into sales trends, customer behavior, and geographic factors that contribute to the store's performance.
+<img src="https://github.com/Oleksiy-Zhukov/Kaggle-Projects/assets/75014961/edc24271-4e36-441c-863b-164aa8902156">
+<img src="https://github.com/Oleksiy-Zhukov/Kaggle-Projects/assets/75014961/51a4f69b-d8c0-47fa-bb1e-0adfd17a2bd6">
 
 #### [Matplotlib](https://github.com/Oleksiy-Zhukov/Kaggle-Projects/tree/main/Matplotlib) (December 2022):
 - This project provides simple examples of some of the most popular charts from the matplotlib library, including bar charts, line charts, and scatterplots.
@@ -23,4 +25,6 @@ This repository contains a collection of some of my first projects Data Science 
 
 #### [Titanic]() (November 2022):
 - This project is centered around the Titanic dataset, aiming to predict the survival of passengers based on various features. I explore feature engineering, model training, and evaluation techniques to build a predictive model.
+<img src="https://github.com/Oleksiy-Zhukov/Kaggle-Projects/assets/75014961/7c83c2e3-5528-4838-9f6f-7552cb50584d">
+
 
