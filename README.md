@@ -13,17 +13,14 @@ This repository contains a collection of some of my first projects Data Science 
 - My last model ensemble achieved RMSE of 0.119 on the testing dataset, which placed me in the top 4% of the Kaggle House Prices Competition leaderboard.
 <img src="https://github.com/Oleksiy-Zhukov/Kaggle-Projects/assets/75014961/4e9783cb-91f1-45c8-add9-86dc322b9197">
 
-Matplotlib: This project showcases different data visualization techniques using Matplotlib. I demonstrate how to create various plots, charts, and graphs to effectively communicate insights from data.
+#### [Superstore Analysis]() (February 2023):
+- Here, I analyze a fictional superstore dataset to gain insights into its sales, customers, and products. The project involves data cleaning, exploratory data analysis, and visualization to identify patterns and trends.
 
-Superstore Analysis: Here, I analyze a fictional superstore dataset to gain insights into its sales, customers, and products. The project involves data cleaning, exploratory data analysis, and visualization to identify patterns and trends.
+#### [Matplotlib](https://github.com/Oleksiy-Zhukov/Kaggle-Projects/tree/main/Matplotlib) (December 2022):
+- This project provides simple examples of some of the most popular charts from the matplotlib library, including bar charts, line charts, and scatterplots.
+- This project serves as a beginner's guide to Matplotlib, demonstrating simple techniques to create clean and visually appealing visuals.
+<img src="https://github.com/Oleksiy-Zhukov/Kaggle-Projects/assets/75014961/fd3c363b-4325-4b03-b8d0-9c6d6af9a45b">
 
-Titanic: This project is centered around the Titanic dataset, aiming to predict the survival of passengers based on various features. I explore feature engineering, model training, and evaluation techniques to build a predictive model.
+#### [Titanic]() (November 2022):
+- This project is centered around the Titanic dataset, aiming to predict the survival of passengers based on various features. I explore feature engineering, model training, and evaluation techniques to build a predictive model.
 
-Visuals
-To provide a glimpse of the projects, here are some visuals from my work:
-
-Insert an image or a screenshot from the Digit Recognition project.
-Insert an image or a screenshot from the House Prices project.
-Insert an image or a screenshot from the Matplotlib project.
-Insert an image or a screenshot from the Superstore Analysis project.
-Insert an image or a screenshot from the Titanic project.
