@@ -1,5 +1,5 @@
 # Data Science Projects
-This repository contains a collection of my Data Science projects originally done on Kaggle. Each project has its own directory within this repo, and a brief description can be found in their respective README files.
+This repository contains a collection of some of my first projects Data Science projects originally done on Kaggle. Each project has its own directory within this repo, and a brief description can be found in their respective README files.
 
 # Projects
 
